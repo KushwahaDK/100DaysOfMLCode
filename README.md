@@ -1,6 +1,6 @@
 # 100DaysOfMLCode
 
-Inspired By : Siraj-Raval and Avik-Jain
+Inspired By : Siraj-Raval
 
 Notebooks having each line of code explained clearly.
 
